@@ -72,7 +72,7 @@ int partition(int* array, size_t a, size_t b)
     array[b]=array[i+1];
     array[i+1]=temp;
 
-	return i+1;
+	return i+1;z
 }
 
 
